@@ -47,7 +47,7 @@ The **Task Management System** is my graduation project from ALX program. It is 
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/task-management-system.git
+   git clone https://github.com/yourusername/Task_Management_System.git
    ```
 
 2. **Set Up the Database**:
@@ -68,6 +68,6 @@ Configure the authentication scheme and database connection as needed.
 Contributions are welcome! If you have suggestions for improvements or bug fixes, please fork the repository and submit a pull request.
 
 ## Acknowledgments
-** Thanks to Oracle APEX for providing a powerful platform for rapid application development.
-** Special thanks to ALX program.
-** Thanks to the community resources and documentation that made this project possible.
+** Thanks to Oracle APEX for providing a powerful platform for rapid application development.**
+** Special thanks to ALX program.**
+** Thanks to the community resources and documentation that made this project possible.**
